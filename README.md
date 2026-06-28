@@ -1,5 +1,7 @@
 # TRAGIC — Terminal Card Game in C
 
+![Tragic](Tragic.png)
+
 Two-player turn-based card game for the terminal, inspired by Magic: The Gathering.  
 Final project for the **C Programming Language** course — Università degli Studi di Perugia.  
 **Author:** Luca Capuccini — matricola 347711
